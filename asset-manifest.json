@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Recipe-Keeper-App/static/css/main.db1e279d.css",
+    "main.js": "/React-Recipe-Keeper-App/static/js/main.35af125d.js",
+    "index.html": "/React-Recipe-Keeper-App/index.html",
+    "main.db1e279d.css.map": "/React-Recipe-Keeper-App/static/css/main.db1e279d.css.map",
+    "main.35af125d.js.map": "/React-Recipe-Keeper-App/static/js/main.35af125d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db1e279d.css",
+    "static/js/main.35af125d.js"
+  ]
+}
